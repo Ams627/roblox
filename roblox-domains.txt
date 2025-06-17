@@ -1,6 +1,4 @@
-(^|\.)roblox\.com$
-(^|\.)epicgames\.com$
-(^|\.)steamusercontent\.com$
+www.roblox.com
 roblox.com
 blox.com  
 goblocks.com  
