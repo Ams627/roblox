@@ -105,4 +105,9 @@ ord2-128-116-101-3.roblox.com
 lms.roblox.com/report  
 metrics.roblox.com  
 tracing.roblox.com  
-lms.roblox.com/
+lms.roblox.com
+slowroads.io
+driftmas.slowroads.io
+driftmas22.slowroads.io
+driftmas23.slowroads.io
+old.slowroads.io
