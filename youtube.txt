@@ -1,0 +1,13 @@
+# Core YouTube domains
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
+yt3.googleusercontent.com
+googlevideo.com
+redirector.googlevideo.com
